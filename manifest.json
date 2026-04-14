@@ -1,7 +1,7 @@
 {
-  "name": "Money Beacon — 儿童财商教育",
-  "short_name": "Money Beacon",
-  "description": "完成好习惯赚工资，管理零花钱，存钱实现心愿，投资让钱生钱",
+  "name": "小灯塔 — 儿童财商教育",
+  "short_name": "小灯塔",
+  "description": "完成好习惯赚宝石，兑换奖品或零花钱，存钱实现心愿，投资让钱生钱",
   "start_url": "/money-beacon/",
   "scope": "/money-beacon/",
   "display": "standalone",
