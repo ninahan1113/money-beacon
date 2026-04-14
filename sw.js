@@ -1,4 +1,4 @@
-const CACHE_NAME = 'money-beacon-v2'
+const CACHE_NAME = 'money-beacon-v3'
 
 self.addEventListener('install', (e) => {
   e.waitUntil(
